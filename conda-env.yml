@@ -1,0 +1,9 @@
+name: trafficAccident-env
+dependencies: 
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - jupyter
+  - seaborn
+  - pip
