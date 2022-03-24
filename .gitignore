@@ -1,0 +1,6 @@
+# ignore DS_Store
+**/.DS_Store
+
+# ignore US-Accidents and Texas Subset
+**/Texas_Accidents_data_2021.csv
+**/US_Accidents_Dec21_updated.csv
