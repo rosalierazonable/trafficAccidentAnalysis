@@ -4,3 +4,6 @@
 # ignore US-Accidents and Texas Subset
 **/Texas_Accidents_data_2021.csv
 **/US_Accidents_Dec21_updated.csv
+
+# ignore kaggle api file
+notebooks/kaggle.json
