@@ -6,6 +6,8 @@ dependencies:
   - matplotlib
   - jupyter
   - seaborn
+  - pip
   - pip:
     - SciencePlots
     - opendatasets
+    - missingno
