@@ -11,4 +11,5 @@ dependencies:
     - SciencePlots
     - opendatasets
     - missingno
-    - autoimpute
+    - miceforest
+    - dython
