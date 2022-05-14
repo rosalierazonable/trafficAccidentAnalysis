@@ -7,3 +7,7 @@
 
 # ignore kaggle api file
 notebooks/kaggle.json
+
+#ignore large files
+# ESDA-checkpoint.ipynb
+# ESDA.ipynb

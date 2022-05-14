@@ -11,3 +11,8 @@ dependencies:
     - SciencePlots
     - opendatasets
     - missingno
+    - miceforest
+    - dython
+    - geopandas
+    - folium
+    - contextily
