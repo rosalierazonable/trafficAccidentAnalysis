@@ -13,3 +13,5 @@ dependencies:
     - missingno
     - miceforest
     - dython
+    - geopandas
+    - folium
