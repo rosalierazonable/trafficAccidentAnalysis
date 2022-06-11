@@ -22,6 +22,32 @@
             "name": "postgres1",
             "database": "postgres",
             "username": "postgres"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "pjlhuillier",
+            "database": "pjlhuillier",
+            "username": "postgres"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "pj",
+            "username": "ru",
+            "database": "pjlhuillier"
         }
     ]
 }
